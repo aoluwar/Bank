@@ -1,10 +1,4 @@
-"""Initial migration
 
-Revision ID: xxxx
-Revises: 
-Create Date: 2025-11-04
-
-"""
 from alembic import op
 import sqlalchemy as sa
 
